@@ -9,6 +9,7 @@ def recur_fibo(n):
 nterms = 10
 
 # check if the number of terms is valid
+# but no only
 if nterms <= 0:
    print("Plese enter a positive integer")
 else:
